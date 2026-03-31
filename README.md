@@ -44,4 +44,3 @@ Para completar el ejercicio práctico, sigue estos pasos:
 - `LICENSE`: Licencia MIT para el proyecto.
 
 ---
-*Hecho con ❤️ para el equipo de Andrés Sandoval.*
